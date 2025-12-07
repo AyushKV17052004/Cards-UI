@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import data from './Data'
 import './App.css'
-import Courses from './Componenets/Courses'
+import Courses from './Components/Courses'
 import { ToastContainer } from 'react-toastify';
 import "react-toastify/ReactToastify.css";
 
